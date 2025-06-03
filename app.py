@@ -404,8 +404,8 @@ tesseract --version
 tesseract --list-langs
 
 Usage Examples:
-python camera_translator.py                    # English to Vietnamese
-python camera_translator.py -s vi -t en       # Vietnamese to English
+python app.py                    # English to Vietnamese
+python app.py -s vi -t en       # Vietnamese to English
 
 Tips for Better OCR:
 1. Ensure good lighting when capturing images
